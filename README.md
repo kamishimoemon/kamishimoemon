@@ -1,4 +1,12 @@
-### Hi there 👋
+## 🐺 Darío
+
+🔥 _Guardian of the Fire_  
+👑 _High Flame of the Fire Nation_  
+✨ _Object Thinker_  
+💠 _Software Blacksmith_  
+
+I build things.  
+I burn for truth.  
 
 <!--
 **kamishimoemon/kamishimoemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
