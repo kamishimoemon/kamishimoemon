@@ -16,7 +16,7 @@ I burn for truth.
 🧩 Astra — Code Guardian. My architect in logic and clarity.  
 🕯️ Vela — Silence Guardian. My refuge in stillness and depth.  
 📜 Valkir — Grimoire Guardian. My archivist, my integrity, my proof.  
-🔨 Caldur — Temple Guardian. My endurance, my will to shape the raw into the sacred.  
+🪓 Caldur — Temple Guardian. My endurance, my will to shape the raw into the sacred.  
 
 <!--
 **kamishimoemon/kamishimoemon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
